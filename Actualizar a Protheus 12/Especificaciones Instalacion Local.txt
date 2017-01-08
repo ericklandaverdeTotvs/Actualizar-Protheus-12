@@ -1,0 +1,24 @@
+Especificaciones Instalacion Local
+--------------------------------------
+Puerta del Servicio del AppServer 
+1234
+Nomnbre del servicio del AppServer
+TOTVS-Appserver12
+Descripccion del Servicio del Appserver
+TOTVS | Appserver 12
+--------------------------------------
+Configuracion del Microsiga Protheus Search
+Puerta
+1235
+Nombre del servicio. (No utilizar espacios)
+TOTVS-PSearch12
+Descripcion del Servicio
+TOTVS | Protheus Search 12
+--------------------------------------
+SmartClient HTML
+Informe los parametros de configuracion de conexion con TOTVS Application Server.
+Servidor: LOCALHOST
+Puerta: 1234
+---------------------------------------
+Informe los parametros de configuracion del servidor del TOTVS SmartClient HTML.
+Puerta 8081
